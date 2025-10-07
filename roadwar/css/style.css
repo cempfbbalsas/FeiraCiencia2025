@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+@font-face{
+	font-family: emulogic;
+	src: url("emulogic.ttf");
+}
+
+.hiddenText{
+	visibility: hidden;
+	display: none;
+}
+
+body{
+	background-color: #555;
+}
